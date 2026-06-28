@@ -10,7 +10,7 @@ This folder contains the exploratory data analysis (EDA) performed in Microsoft 
 * Customer lifecycle analysis
 * Refund reason exploration
 
-📄 **Excel Workbook:** [Open RavenStack_EDA.xlsx](./RavenStack_EDA.xlsx)
+📄 **Excel Workbook:** [Open RavenStack_EDA.xlsx](./Excel/RavenStack_SaaS_Churn_Analysis.xlsx)
 
 ## EDA Visuals
 
