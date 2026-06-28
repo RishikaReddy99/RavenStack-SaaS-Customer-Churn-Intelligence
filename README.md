@@ -19,13 +19,6 @@ This Business Analysis case study investigates customer churn at RavenStack, a f
 
 Rather than focusing only on dashboard creation, this case study follows the complete Business Analysis lifecycle—from understanding the business problem and stakeholder needs to delivering data-driven insights and strategic recommendations.
 
-🔑 Key Insights:
-DevTools customers show the highest churn volume
-Paid acquisition channels underperform organic channels
-Most customers churn after 90+ days of usage
-Pro plan generates highest revenue loss
-Feature gaps are the leading cause of refunds
-
 ## 🎯 Business Problem
 
 RavenStack lacked visibility into why customers were leaving and which factors were driving revenue loss. This analysis was conducted to uncover churn patterns, identify retention risks, and support data-driven business decisions.
