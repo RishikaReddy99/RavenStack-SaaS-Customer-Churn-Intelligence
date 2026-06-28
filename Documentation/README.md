@@ -15,5 +15,5 @@ This folder contains the complete Business Analysis report for the RavenStack Sa
 
 ## 📄 Report
 
-👉 **[Open Business Analysis Report (PDF)](RavenStack_SaaS_Customer_Churn_Intelligence.pdf)**
+👉 **[Open Business Analysis Report (PDF)](RavenStack SaaS Customer Churn Intelligence.pdf)**
 
