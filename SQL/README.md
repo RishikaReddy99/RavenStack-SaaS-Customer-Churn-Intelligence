@@ -15,5 +15,5 @@ This folder contains the SQL queries used to investigate customer churn, measure
 9. Customer Satisfaction vs Churn
 10. Support Escalation vs Churn
 
-📄 **SQL Script:** [Open SQL Analysis](./RavenStack_SQL_Analysis.sql)
+📄 **SQL Script:** [Open SQL Analysis](./00_RavenStack_SQL_Analysis.sql)
 
