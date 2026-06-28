@@ -55,6 +55,7 @@ Churn Events → Refunds & churn reasons
 ## 📸 Executive Dashboard
 
 The Power BI dashboard highlights customer churn trends, revenue leakage, support risks, and retention opportunities through executive-focused KPIs and business insights.
+![RavenStack Executive Dashboard](Images/RavenStack_Dashboard.png)
 
 ## 💡 Executive Insights
 🔴 Most Customers leave after 90+ days → retention gap
