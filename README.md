@@ -57,3 +57,27 @@ The Power BI dashboard highlights customer churn trends, revenue leakage, suppor
 🟢 Product feature gaps drive more refunds than pricing concerns.
 🟣 Improving customer onboarding offers the greatest retention opportunity.
 
+## 📋 Agile Project Management (Jira)
+
+The entire Business Analysis lifecycle for this project was planned and managed using **Jira Software** following the **Scrum framework**.
+
+### Project Highlights
+
+- ✅ 4 Business Epics
+- ✅ 15+ User Tasks
+- ✅ 3 Completed Sprints
+- ✅ Sprint Planning & Sprint Reviews
+- ✅ Requirement Management
+- ✅ Business Documentation Tracking
+- ✅ Dashboard Development Tracking
+- ✅ Project Validation & Closure
+
+**Jira Documentation**
+
+📂 Documentation/Jira/
+
+---
+
+### Jira Project Summary
+
+![Jira Project Summary](rishikaega99-1779797380893.atlassian.net_jira_software_projects_RCCA_summary.png)
