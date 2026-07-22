@@ -7,7 +7,8 @@ Domain: SaaS (Software as a Service)
 
 Project Type: Business Analysis Case Study
 
-Tools: Excel • SQL (MySQL) • Power BI
+Tools: Excel • SQL (MySQL) • Power BI - Jira (Scrum)
+- GitHub
 
 Focus Areas: Customer Churn • Revenue Protection • Customer Success • Executive Reporting
 
