@@ -80,4 +80,4 @@ The entire Business Analysis lifecycle for this project was planned and managed 
 
 ### Jira Project Summary
 
-![Jira Project Summary](rishikaega99-1779797380893.atlassian.net_jira_software_projects_RCCA_summary.png)
+![Jira Project Summary](Documentation/Jira/rishikaega99-1779797380893.atlassian.net_jira_software_projects_RCCA_summary.png)
